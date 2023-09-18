@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>visionary-javaWebApp</finalName>
+		<finalName>tesla</finalName>
 		
 		<plugins>
 			<plugin>
