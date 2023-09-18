@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Tesla Web application Project September, 2023.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaire and billionaire IT professionals in over 50 nations of the world.
-	We offer Training for DevOps with Linux, Kubernetes and Cloud Computing, equipping IT Engineers for best performance.
+	We offer Training for DevOps with Linux, Kubernetes and Cloud Computing, equipping IT Engineers for best performance across the globe.
 	Class34 DevOps MasterClass will start on Oct 14, 2023. </h1>
 <hr>
 <br>
