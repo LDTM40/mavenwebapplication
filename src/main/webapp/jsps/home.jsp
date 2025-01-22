@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Project September, 2023.</h1>
+<h1 align="center">Welcome to Tesla Web application Project September, 2024.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaire and billionaire IT professionals in over 50 nations of the world.
+	           We are raising millionaires and billionaires in the IT profession in over 50 nations of the world.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud Computing, equipping IT Engineers for best performance across the globe.
-	Class34 DevOps MasterClass will start on Oct 14, 2023. </h1>
+	Class37 DevOps MasterClass will start on Oct 14, 2024. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
